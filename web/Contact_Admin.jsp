@@ -53,13 +53,9 @@
         <div class="text-contact text-center">
             <i class="fa fa-handshake-o fa-2x" aria-hidden="true" style="color: black"></i>
                 <h3 style="color: black; font-weight: bolder; font-size: 38px; font-family: serif;"> Noble Nonprofits - NPO Connect</h3>
+                
                 <br>
-                <h5 style="font-size: 20px"> Kanta Garg </h5>
-                <h5 style="font-size: 20px"> Khushboo Balani</h5>
-                <h5 style="font-size: 20px"> Khushi Jain</h5>
-                <h5 style="font-size: 20px"> Navodita Tandon </h5>
-                <br>
-                <h5 style="color: green"><i class="fa fa-whatsapp" aria-hidden="true"></i> 9924853884</h5>
+                <h5 style="color: green"><i class="fa fa-whatsapp" aria-hidden="true"></i> 99xxxxxxxx</h5>
                 <h5 style="color: black"><i class="fa fa-envelope" aria-hidden="true"></i> nonprofitsnoble@gmail.com</h5>
                 <h5 style="color: red"><i class="fa fa-youtube-play" aria-hidden="true"></i> Noble Nonprofits</h5>
                 
